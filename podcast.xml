@@ -19,12 +19,9 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.jpg" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
-        </itunes:category> 
+        <itunes:image href="https://podcast.smb.org/assets/images/logo.png" />
+		<itunes:category text="Science" />
+        <itunes:category text="Education" />
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
@@ -34,7 +31,7 @@
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/images/itunes.jpg" />
-            <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+            <enclosure url="{{site.url}}/podcasts/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
             <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <description>{{ post.summary | xml_escape }} {{ post.description | xml_escape }}</description>
