@@ -5,7 +5,7 @@ description: 'The Society for Mathematical Biology - podcast RSS feed.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-url:     "http://smb.org/"
+url:     "http://podcast.smb.org/"
 
 customvar: 				 "custom"
 
