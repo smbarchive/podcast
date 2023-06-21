@@ -13,6 +13,12 @@ customvar: 				 "custom"
 # Social Profiles
 twitter_username:  SMB_MathBiology
 
+email: membership@smb.org
+subtitle: "The SMB Podcast"
+lang: en-us
+author: Society for Mathematical Biology
+copyright: "CC-BY 4.0"
+
 
 # Build settings
 permalink: /:title/
