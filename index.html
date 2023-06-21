@@ -1,0 +1,57 @@
+---
+title: "Society of Mathematical Biology's Podcast Feed"
+layout: default
+pagination:
+    enabled: false
+description: "The Society for Mathematical Biology - Podcast RSS Feed"
+---
+
+<!-- +9 (london), +17 (seoul)-->
+
+<div class="container">
+	<div class="col-md-12 main-loop">
+		<div class="row">
+	    	<div class="col-md-12 text-center">
+				<div class="row">
+					<div class="col-md-12">
+						
+					
+						<h1 class="text-left">SMB's Podcast RSS Feed</h1>
+						
+						
+						{% for post in site.posts %}
+							</br></br> <hr> </br></br>
+							
+					        <div>
+						        <h2>
+						          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						        </h2>
+						        <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+						        <p>{{ post.summary }} </p>
+					        </div>
+						{% endfor %}
+						
+						</br></br> <hr> </br></br>
+												
+					</div>
+				</div>
+	        </div>
+	    </div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
