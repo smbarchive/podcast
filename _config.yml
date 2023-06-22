@@ -1,7 +1,7 @@
 # Site
-title: 'The Society for Mathematical Biology Podcast Feed'
-name: 'The Society for Mathematical Biology Podcast Feed'
-description: 'The Society for Mathematical Biology - podcast RSS feed.'
+title: 'Biology in Numbers'
+name: 'The Society for Mathematical Biology'
+description: 'The Society for Mathematical Biology: the Biology in Numbers podcast'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -14,9 +14,9 @@ customvar: 				 "custom"
 twitter_username:  SMB_MathBiology
 
 email: website@smb.org
-subtitle: "The SMB Podcast"
+subtitle: "Biology in Numbers"
 lang: en-us
-author: Society for Mathematical Biology
+author: The Society for Mathematical Biology
 copyright: "CC-BY 4.0"
 
 
@@ -39,8 +39,6 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
       
   # all abstracts
   - scope:
