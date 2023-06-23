@@ -33,10 +33,10 @@
             {% if post.photo %}
             	<itunes:image href="{{ site.url }}/photos/{{post.photo}}" />
             {% endif %}
+            <description>{{ post.content | xml_escape }}</description>
             <enclosure url="{{site.url}}/podcasts/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
             <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <description>{{ post.summary | xml_escape }} {{ post.description | xml_escape }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
