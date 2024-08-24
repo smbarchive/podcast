@@ -1,28 +1,38 @@
-name: Deploy to GitHub Pages
+name: Timed-Jekyll-Run
+
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:  # Allows manual triggering
+  # Schedule the workflow to run every Saturday at 1:45 PM UTC
   schedule:
-    - cron: '25 17 * * 6'  # This cron expression schedules the workflow to run at 6 AM UTC every Sunday
+    - cron: '45 13 * * 6'
+  # Allows you to run the workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+        with:
+          ref: main  # Specifies the main branch
 
-      - name: Build the project
-        run: |
-          # Add your build commands here, e.g., npm install && npm run build
-          echo "Building the project..."
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'  # Use the Ruby version specified in your project, adjust as needed
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build the site with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production  # Set the environment to production for the build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public  # Change this to the directory of your built site
+          publish_dir: ./_site  # Jekyll output directory
 
