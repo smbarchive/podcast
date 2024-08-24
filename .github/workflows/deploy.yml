@@ -1,8 +1,5 @@
 name: Deploy to GitHub Pages
 on:
-  push:
-    branches:
-      - main  # Runs on push to the 'main' branch
   workflow_dispatch:  # Allows manual triggering
   schedule:
     - cron: '0 6 * * 0'  # This cron expression schedules the workflow to run at 6 AM UTC every Sunday
