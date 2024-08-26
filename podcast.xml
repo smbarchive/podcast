@@ -23,6 +23,40 @@
 		
 
         <item>
+            <title>Season 2 Episode 2: Stacey R. Smith?</title>
+            <itunes:author>The Society for Mathematical Biology</itunes:author>
+            <itunes:subtitle>Biology in Numbers: Season 2 Episode 2: Stacey R. Smith?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            
+            	<itunes:image href="http://podcast.smb.org/photos/season-2/02-smith.png" />
+            
+            <description>&lt;p&gt;…where we talk about infectious diseases, mentorship and mathematical tattoos.&lt;/p&gt;
+
+&lt;p&gt;Professor Stacey Smith? is an infectious disease modeler who appreciates the real world impacts that math biology can have. She leads educational and mentorship programming at the SMB and apparently never says no to anything SMB related. We caught Stacey at SMB 2024 in South Korea to talk about her research, life-changing transitions, and being a Whovian.&lt;/p&gt;
+
+&lt;p&gt;Check out Stacey’s website for science, articles and Sci-Fi nerdiness: 
+&lt;a href=&quot;mysite.science.uottawa.ca/rsmith43/&quot;&gt;mysite.science.uottawa.ca/rsmith43/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And for those curious about the tattoo, read more about the Mandlebrot set:
+&lt;a href=&quot;wikipedia.org/wiki/Mandelbrot_set&quot;&gt;wikipedia.org/wiki/Mandelbrot_set&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="http://podcast.smb.org/podcasts/season-2/02-smith.mp3" length="" type="audio/mp3"/>
+            <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-2/</guid>
+            <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
+            <itunes:keywords></itunes:keywords>
+            <itunes:block></itunes:block>
+		</item>
+
+        <item>
             <title>Season 2 Episode 1: SMB 2024</title>
             <itunes:author>The Society for Mathematical Biology</itunes:author>
             <itunes:subtitle>Biology in Numbers: Season 2 Episode 1: SMB 2024</itunes:subtitle>
