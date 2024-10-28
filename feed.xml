@@ -5,9 +5,36 @@
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
     <link>http://podcast.smb.org/</link>
     <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Oct 2024 18:35:46 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Oct 2024 18:35:46 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2024 18:05:51 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:05:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Season 2 Episode 4: Matthew Penn</title>
+        <description>&lt;p&gt;…where we talk about a paper studying: who and when we should vaccinate.&lt;/p&gt;
+
+&lt;p&gt;After completing a DPhil in Statistics from the University of Oxford, focussing in epidemiology and phylogenetics, Matt now works as a data scientist for Italian football club Como 1907.
+Matt was awarded the Lee A. Segel Prize for Best Student Paper published in &lt;a href=&quot;https://link.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology: Asymptotic Analysis of Optimal Vaccination Policies&lt;/a&gt;.
+Join us to learn more about how this paper can help health professionals better assess the best way to distribute vaccines.&lt;/p&gt;
+
+&lt;p&gt;Find out more about Matt and his work on Linkedin:
+&lt;a href=&quot;linkedin.com/in/matthew-penn-732551232/&quot;&gt;linkedin.com/in/matthew-penn-732551232/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 27 Oct 2024 14:00:00 +0000</pubDate>
+        <link>http://podcast.smb.org/season-2-episode-4/</link>
+        <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-4/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Season 2 Episode 3: Reinhard Laubenbacher</title>
@@ -284,40 +311,6 @@ Learn about the SMB’s Cardiovascular Modeling subgroup: &lt;a href=&quot;https
         <pubDate>Thu, 14 Sep 2023 14:00:00 +0000</pubDate>
         <link>http://podcast.smb.org/episode-5/</link>
         <guid isPermaLink="true">http://podcast.smb.org/episode-5/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 4: Stacey Finley and Zhilan Feng</title>
-        <description>&lt;p&gt;…where we talk about Diversity, Equity and Inclusion in mathematical Biology&lt;/p&gt;
-
-&lt;p&gt;Dr. Stacey Finley is an Associate Professor of Biomedical Engineering at the University of Southern California. Her research is in mathematical oncology - she builds models to study biochemical networks inside cells and interactions between cells.&lt;/p&gt;
-
-&lt;p&gt;Prof. Zhilan Feng joined the Math Dept at Purdue University in 1996 and is currently a Program Director in the Math Biology program at NSF. She was elected a Fellow of the AMS in 2021. Zhilan enjoyed playing volleyball both in college and recreationally at Purdue.&lt;/p&gt;
-
-&lt;p&gt;We hear from them about their research, and get some tips for other budding math biologists.&lt;/p&gt;
-
-&lt;p&gt;As co-chairs of the Diversity, Equity and Inclusion (DEI) Committee they are driving change as part of SMB’s ongoing commitment to cultivating an inclusive and equitable society. Tune in to learn how!&lt;/p&gt;
-
-&lt;p&gt;Find out more about Stacey and Zhilan on Wikipedia:
-&lt;a href=&quot;wikipedia.org/wiki/Stacey_Finley&quot;&gt;wikipedia.org/wiki/Stacey_Finley&lt;/a&gt;
-&lt;a href=&quot;wikipedia.org/wiki/Zhilan_Feng&quot;&gt;wikipedia.org/wiki/Zhilan_Feng&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;and follow Stacey on Twitter: &lt;a href=&quot;http://twitter.com/USCSysBio_Lab&quot;&gt;@USCSysBio_Lab&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 13 Aug 2023 14:00:00 +0000</pubDate>
-        <link>http://podcast.smb.org/episode-4/</link>
-        <guid isPermaLink="true">http://podcast.smb.org/episode-4/</guid>
         
         
       </item>

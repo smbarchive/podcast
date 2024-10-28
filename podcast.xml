@@ -23,6 +23,39 @@
 		
 
         <item>
+            <title>Season 2 Episode 4: Matthew Penn</title>
+            <itunes:author>The Society for Mathematical Biology</itunes:author>
+            <itunes:subtitle>Biology in Numbers: Season 2 Episode 4: Matthew Penn</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            
+            	<itunes:image href="http://podcast.smb.org/photos/season-2/04-Matthew-Penn.png" />
+            
+            <description>&lt;p&gt;…where we talk about a paper studying: who and when we should vaccinate.&lt;/p&gt;
+
+&lt;p&gt;After completing a DPhil in Statistics from the University of Oxford, focussing in epidemiology and phylogenetics, Matt now works as a data scientist for Italian football club Como 1907.
+Matt was awarded the Lee A. Segel Prize for Best Student Paper published in &lt;a href=&quot;https://link.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology: Asymptotic Analysis of Optimal Vaccination Policies&lt;/a&gt;.
+Join us to learn more about how this paper can help health professionals better assess the best way to distribute vaccines.&lt;/p&gt;
+
+&lt;p&gt;Find out more about Matt and his work on Linkedin:
+&lt;a href=&quot;linkedin.com/in/matthew-penn-732551232/&quot;&gt;linkedin.com/in/matthew-penn-732551232/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="http://podcast.smb.org/podcasts/season-2/04-Matthew-Penn.mp3" length="" type="audio/mp3"/>
+            <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-4/</guid>
+            <pubDate>Sun, 27 Oct 2024 14:00:00 +0000</pubDate>
+            <itunes:keywords></itunes:keywords>
+            <itunes:block></itunes:block>
+		</item>
+
+        <item>
             <title>Season 2 Episode 3: Reinhard Laubenbacher</title>
             <itunes:author>The Society for Mathematical Biology</itunes:author>
             <itunes:subtitle>Biology in Numbers: Season 2 Episode 3: Reinhard Laubenbacher</itunes:subtitle>
