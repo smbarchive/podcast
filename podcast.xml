@@ -23,6 +23,37 @@
 		
 
         <item>
+            <title>Season 2 Episode 6: Mark Lewis</title>
+            <itunes:author>The Society for Mathematical Biology</itunes:author>
+            <itunes:subtitle>Biology in Numbers: Season 2 Episode 6: Mark Lewis</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            
+            	<itunes:image href="http://podcast.smb.org/photos/season-2/02_06-Mark-Lewis.png" />
+            
+            <description>&lt;p&gt;where we talk: the Akira Okobu prize, the Fokker-Planck equation, and the movement of bears.&lt;/p&gt;
+
+&lt;p&gt;Mark Lewis is a mathematical ecologist at the University of Victoria. He uses mathematical models to understand the environment and our human impacts. He tries to maintain that work life balance by spending that hard-earned free time curling.&lt;/p&gt;
+
+&lt;p&gt;Find out more about Mark’s groups’ work on the following website: &lt;a href=&quot;https://lewisresearchlab.org/&quot;&gt;https://lewisresearchlab.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bluesky: &lt;a href=&quot;https://bsky.app/profile/smbmathbiology.bsky.social&quot;&gt;@smbmathbiology.bsky.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="http://podcast.smb.org/podcasts/season-2/06-Mark-Lewis.mp3" length="" type="audio/mp3"/>
+            <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-6/</guid>
+            <pubDate>Sun, 26 Jan 2025 14:00:00 +0000</pubDate>
+            <itunes:keywords></itunes:keywords>
+            <itunes:block></itunes:block>
+		</item>
+
+        <item>
             <title>Season 2 Episode 5: Suzanne Sindi</title>
             <itunes:author>The Society for Mathematical Biology</itunes:author>
             <itunes:subtitle>Biology in Numbers: Season 2 Episode 5: Suzanne Sindi</itunes:subtitle>

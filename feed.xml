@@ -5,9 +5,34 @@
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
     <link>http://podcast.smb.org/</link>
     <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Jan 2025 18:33:58 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Jan 2025 18:33:58 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 15:51:54 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:51:54 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Season 2 Episode 6: Mark Lewis</title>
+        <description>&lt;p&gt;where we talk: the Akira Okobu prize, the Fokker-Planck equation, and the movement of bears.&lt;/p&gt;
+
+&lt;p&gt;Mark Lewis is a mathematical ecologist at the University of Victoria. He uses mathematical models to understand the environment and our human impacts. He tries to maintain that work life balance by spending that hard-earned free time curling.&lt;/p&gt;
+
+&lt;p&gt;Find out more about Mark’s groups’ work on the following website: &lt;a href=&quot;https://lewisresearchlab.org/&quot;&gt;https://lewisresearchlab.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bluesky: &lt;a href=&quot;https://bsky.app/profile/smbmathbiology.bsky.social&quot;&gt;@smbmathbiology.bsky.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 26 Jan 2025 14:00:00 +0000</pubDate>
+        <link>http://podcast.smb.org/season-2-episode-6/</link>
+        <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-6/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Season 2 Episode 5: Suzanne Sindi</title>
@@ -275,39 +300,6 @@ Learn about the SMB’s fellows here:
         <pubDate>Sun, 12 Nov 2023 14:00:00 +0000</pubDate>
         <link>http://podcast.smb.org/episode-7/</link>
         <guid isPermaLink="true">http://podcast.smb.org/episode-7/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 6: Michael Watson</title>
-        <description>&lt;p&gt;…where we talk about studying flow through pipes, and creating an SMB subgroup&lt;/p&gt;
-
-&lt;p&gt;In his own words, Michael Watson is:
-“an applied mathematician who uses mathematical models to study disease, development and physiology at the cell and tissue-scale.” 
-Outside science, Mike is happiest when listening to music, catching up on “the fitba”, and spending time with family.&lt;/p&gt;
-
-&lt;p&gt;His current research focus is the growth and formation of atherosclerotic plaques which block arteries.&lt;/p&gt;
-
-&lt;p&gt;Find out more about Mike on his website:
-&lt;a href=&quot;https://research.unsw.edu.au/people/dr-michael-watson&quot;&gt;https://research.unsw.edu.au/people/dr-michael-watson&lt;/a&gt;
-follow him on Twitter: &lt;a href=&quot;https://twitter.com/DrMikeGWatson&quot;&gt;@DrMikeGWatson&lt;/a&gt;
-Learn about the SMB’s Cardiovascular Modeling subgroup: &lt;a href=&quot;https://www.smb.org/Cardiovascular-Modeling&quot;&gt;https://www.smb.org/Cardiovascular-Modeling&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And read the paper we discussed during the episode, on atherosclerotic plaque macrophages: &lt;a href=&quot;https://link.springer.com/article/10.1007/s11538-023-01193-w&quot;&gt;https://link.springer.com/article/10.1007/s11538-023-01193-w&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 06 Oct 2023 14:00:00 +0000</pubDate>
-        <link>http://podcast.smb.org/episode-6/</link>
-        <guid isPermaLink="true">http://podcast.smb.org/episode-6/</guid>
         
         
       </item>
