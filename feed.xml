@@ -5,9 +5,37 @@
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
     <link>http://podcast.smb.org/</link>
     <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 May 2025 18:40:34 +0000</pubDate>
-    <lastBuildDate>Sat, 24 May 2025 18:40:34 +0000</lastBuildDate>
+    <pubDate>Tue, 27 May 2025 14:00:51 +0000</pubDate>
+    <lastBuildDate>Tue, 27 May 2025 14:00:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Season 2 Episode 9: Marissa Renardy</title>
+        <description>&lt;p&gt;… where we talk: Big pharma, In silico trials, and Sciencing for fun.&lt;/p&gt;
+
+&lt;p&gt;Marissa earned a PhD in Mathematics from The Ohio State University in 2018. She was then a postdoctoral research fellow at University of Michigan until 2021, when she joined Applied BioMath as a full time QSP modeler, then GSK in July 2024.&lt;/p&gt;
+
+&lt;p&gt;She does applied work with her mathematician parents’ full approval.&lt;/p&gt;
+
+&lt;p&gt;Follow Marissa’s progress on her LinkedIn page: 
+&lt;a href=&quot;linkedin.com/in/marissa-renardy&quot;&gt;linkedin.com/in/marissa-renardy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bluesky: &lt;a href=&quot;https://bsky.app/profile/smbmathbiology.bsky.social&quot;&gt;@smbmathbiology.bsky.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
+        <link>http://podcast.smb.org/season-2-episode-9/</link>
+        <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-9/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Season 2 Episode 8: Daniel Cooney</title>
@@ -248,40 +276,6 @@ Rossana Vermiglio - Full professor at the University of Udine, Udine, Italy.&lt;
         <pubDate>Sun, 07 Apr 2024 14:00:00 +0000</pubDate>
         <link>http://podcast.smb.org/episode-10/</link>
         <guid isPermaLink="true">http://podcast.smb.org/episode-10/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 9: Yangjin Kim</title>
-        <description>&lt;p&gt;…where we talk chemo brain, drug therapies, and a big meeting in Korea&lt;/p&gt;
-
-&lt;p&gt;Yangjin Kim is a bio-mathematician developing and analyzing various types of mathematical models for cancer research. I am very interested in creating a multi-scale hybrid mathematical model and developing anti-cancer strategies.&lt;/p&gt;
-
-&lt;p&gt;Yangjin’s current research interests lie within:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tumor microenvironments&lt;/li&gt;
-  &lt;li&gt;Chemo brain&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Look up Yangjin’s website to find out more about his background and work:
-&lt;a href=&quot;https://sites.google.com/view/yangjinkim&quot;&gt;https://sites.google.com/view/yangjinkim&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Learn about the SMB’s annual meeting here: 
-&lt;a href=&quot;https://smb2024.org/&quot;&gt;https://smb2024.org/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 10 Mar 2024 14:00:00 +0000</pubDate>
-        <link>http://podcast.smb.org/episode-9/</link>
-        <guid isPermaLink="true">http://podcast.smb.org/episode-9/</guid>
         
         
       </item>
