@@ -5,9 +5,38 @@
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
     <link>http://podcast.smb.org/</link>
     <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Jun 2025 18:43:40 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Jun 2025 18:43:40 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 15:55:35 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 15:55:35 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Season 2 Episode 10: Jay Newby</title>
+        <description>&lt;p&gt;… where we talk: Random openings in neurons, Gumbatine, and conferences in Canada.&lt;/p&gt;
+
+&lt;p&gt;Jay Newby graduated from the University of Utah Math Biology program in 2010. He was supervised by Paul Bressloff. His expertise includes applied stochastic processes, mathematical modeling, and machine learning tools for bio-image analysis.&lt;/p&gt;
+
+&lt;p&gt;Learn more about Jay’s work on his webpage: &lt;a href=&quot;https://sites.ualberta.ca/~jnewby/&quot;&gt;https://sites.ualberta.ca/~jnewby/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find the weather app we talked about is here: &lt;a href=&quot;earth.nullschool.net&quot;&gt;earth.nullschool.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And you can find out about SMB’s annual meeting here: &lt;a href=&quot;https://2025.smb.org/&quot;&gt;https://2025.smb.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bluesky: &lt;a href=&quot;https://bsky.app/profile/smbmathbiology.bsky.social&quot;&gt;@smbmathbiology.bsky.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 29 Jun 2025 14:00:00 +0000</pubDate>
+        <link>http://podcast.smb.org/season-2-episode-10/</link>
+        <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-10/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Season 2 Episode 9: Marissa Renardy</title>
@@ -248,34 +277,6 @@ Rossana Vermiglio - Full professor at the University of Udine, Udine, Italy.&lt;
         <pubDate>Sat, 20 Jul 2024 14:00:00 +0000</pubDate>
         <link>http://podcast.smb.org/season-2-episode-1/</link>
         <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-1/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 10: Jane Heffernan</title>
-        <description>&lt;p&gt;…where we talk immune systems, zombies and being presidential.&lt;/p&gt;
-
-&lt;p&gt;Jane Heffernan is a disease modeller. In her own words “My research aims to understand immunity development and maintenance in people, and in populations, after infection or vaccination. When I am not working, you can find me at soccer pitches or hockey arenas.”&lt;/p&gt;
-
-&lt;p&gt;Jane’s current research interests lie within mathematical immunology and the modelling of waning and boosting immunity. Her lab is interested in understanding characteristics of pathogens, individual hosts, and populations that allow for disease spread and to determine public health and medical intervention strategies that will be needed to contain or eradicate infectious disease&lt;/p&gt;
-
-&lt;p&gt;Learn more about Jane on her Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Jane_Heffernan&quot;&gt;https://en.wikipedia.org/wiki/Jane_Heffernan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And the link to the Mathematical Modeling of Zombies:  ​​&lt;a href=&quot;https://yfile.news.yorku.ca/2014/10/30/york-profs-investigate-the-mathematics-of-the-undead/&quot;&gt;https://yfile.news.yorku.ca/2014/10/30/york-profs-investigate-the-mathematics-of-the-undead/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 07 Apr 2024 14:00:00 +0000</pubDate>
-        <link>http://podcast.smb.org/episode-10/</link>
-        <guid isPermaLink="true">http://podcast.smb.org/episode-10/</guid>
         
         
       </item>

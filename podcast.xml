@@ -23,6 +23,41 @@
 		
 
         <item>
+            <title>Season 2 Episode 10: Jay Newby</title>
+            <itunes:author>The Society for Mathematical Biology</itunes:author>
+            <itunes:subtitle>Biology in Numbers: Season 2 Episode 10: Jay Newby</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            
+            	<itunes:image href="http://podcast.smb.org/photos/season-2/10-Jay-Newby.png" />
+            
+            <description>&lt;p&gt;… where we talk: Random openings in neurons, Gumbatine, and conferences in Canada.&lt;/p&gt;
+
+&lt;p&gt;Jay Newby graduated from the University of Utah Math Biology program in 2010. He was supervised by Paul Bressloff. His expertise includes applied stochastic processes, mathematical modeling, and machine learning tools for bio-image analysis.&lt;/p&gt;
+
+&lt;p&gt;Learn more about Jay’s work on his webpage: &lt;a href=&quot;https://sites.ualberta.ca/~jnewby/&quot;&gt;https://sites.ualberta.ca/~jnewby/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find the weather app we talked about is here: &lt;a href=&quot;earth.nullschool.net&quot;&gt;earth.nullschool.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And you can find out about SMB’s annual meeting here: &lt;a href=&quot;https://2025.smb.org/&quot;&gt;https://2025.smb.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find out more about SMB on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The website: &lt;a href=&quot;https://www.smb.org/&quot;&gt;smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bluesky: &lt;a href=&quot;https://bsky.app/profile/smbmathbiology.bsky.social&quot;&gt;@smbmathbiology.bsky.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smb_mathbiology&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/smb.org/&quot;&gt;@smb.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin: &lt;a href=&quot;http://www.linkedin.com/company/smb-mathbiology/&quot;&gt;@smb_mathbiology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.springer.com/journal/11538&quot;&gt;The Bulletin of Mathematical Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="http://podcast.smb.org/podcasts/season-2/10-Jay-Newby.mp3" length="" type="audio/mp3"/>
+            <guid isPermaLink="true">http://podcast.smb.org/season-2-episode-10/</guid>
+            <pubDate>Sun, 29 Jun 2025 14:00:00 +0000</pubDate>
+            <itunes:keywords></itunes:keywords>
+            <itunes:block></itunes:block>
+		</item>
+
+        <item>
             <title>Season 2 Episode 9: Marissa Renardy</title>
             <itunes:author>The Society for Mathematical Biology</itunes:author>
             <itunes:subtitle>Biology in Numbers: Season 2 Episode 9: Marissa Renardy</itunes:subtitle>
