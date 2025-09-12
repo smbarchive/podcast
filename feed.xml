@@ -3,10 +3,13 @@
   <channel>
     <title>Biology in Numbers</title>
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
+    <!-- 🔄 Redirect -->
+	<itunes:new-feed-url>https://anchor.fm/s/1092d04d8/podcast/rss</itunes:new-feed-url>
+    
     <link>http://podcast.smb.org/</link>
-    <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Sep 2025 20:14:36 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2025 20:14:36 +0000</lastBuildDate>
+
+    <pubDate>Fri, 12 Sep 2025 20:20:58 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 20:20:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
