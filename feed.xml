@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" >
   <channel>
     <title>Biology in Numbers</title>
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
@@ -8,8 +8,8 @@
     
     <link>http://podcast.smb.org/</link>
 
-    <pubDate>Fri, 12 Sep 2025 20:20:58 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2025 20:20:58 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 20:29:32 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 20:29:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
