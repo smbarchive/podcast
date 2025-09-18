@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en-us">
 
     <channel>
+		<atom:link href="http://podcast.smb.org/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>Biology in Numbers</title>
 		<link>http://podcast.smb.org</link>
 		<language>en-us</language>
         <copyright>&#xA9; 2025 Biology in Numbers</copyright>
+		<itunes:subtitle>Biology in Numbers</itunes:subtitle>
+        <itunes:author>The Society for Mathematical Biology</itunes:author>
+		<itunes:summary>The Society for Mathematical Biology: the Biology in Numbers podcast</itunes:summary>
         <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
-		
-		<!-- 🔄 Redirect -->
-		<itunes:new-feed-url>https://anchor.fm/s/1092d04d8/podcast/rss</itunes:new-feed-url>
+		<webMaster>website@smb.org</webMaster>
+        <itunes:owner>
+			<itunes:name>The Society for Mathematical Biology</itunes:name>
+			<itunes:email>website@smb.org</itunes:email>
+		</itunes:owner>
+        <itunes:image href="https://podcast.smb.org/assets/images/logo.png" />
+		<itunes:category text="Science" />
+        <itunes:category text="Education" />
+        <itunes:explicit>no</itunes:explicit>
 		
 
         <item>
@@ -754,4 +764,3 @@ Designing Drug Regimens that Mitigate Nonadherence.&lt;/p&gt;
 
 	</channel>
 </rss>
-

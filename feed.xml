@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" >
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biology in Numbers</title>
     <description>The Society for Mathematical Biology: the Biology in Numbers podcast</description>
-    <!-- 🔄 Redirect -->
-	<itunes:new-feed-url>https://anchor.fm/s/1092d04d8/podcast/rss</itunes:new-feed-url>
-    
     <link>http://podcast.smb.org/</link>
-
-    <pubDate>Sat, 13 Sep 2025 18:35:51 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Sep 2025 18:35:51 +0000</lastBuildDate>
+    <atom:link href="http://podcast.smb.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Sep 2025 16:04:48 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 16:04:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
